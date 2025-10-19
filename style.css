@@ -51,12 +51,13 @@ h2 {
 }
 a:hover{
     background-color: var(--active-link);
+    color:var(--main-bg);
 }
 
 a {
     text-align: center;
     background-color: var(--link-bg);
-    border-radius: 1rem;
+    border-radius: 0.5rem;
     text-decoration: none;
     margin: 9px;
     padding: 12px;
